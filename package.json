@@ -1,0 +1,19 @@
+{
+  "name": "esportsclub-discordbot",
+  "version": "1.0.0",
+  "description": "discord bot for University Esports Club",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachJGreen/esportsClub-discordBot.git"
+  },
+  "author": "Zach Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachJGreen/esportsClub-discordBot/issues"
+  },
+  "homepage": "https://github.com/ZachJGreen/esportsClub-discordBot#readme"
+}
