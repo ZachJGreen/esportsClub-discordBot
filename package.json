@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ZachJGreen/esportsClub-discordBot/issues"
   },
-  "homepage": "https://github.com/ZachJGreen/esportsClub-discordBot#readme"
+  "homepage": "https://github.com/ZachJGreen/esportsClub-discordBot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
 }
