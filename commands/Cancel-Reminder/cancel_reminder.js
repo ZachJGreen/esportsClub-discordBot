@@ -2,9 +2,9 @@ const { SlashCommandBuilder } = require('discord.js');
 
 module.exports = {
     data : new SlashCommandBuilder()
-        .setName('reminder')
-        .setDescription('Create reminder'),
+        .setName('cancel reminder')
+        .setDescription('delete a reminder'),
     async execute(interaction){
-        await interaction.reply('Creating reminder');
+        await interaction.reply('Canceling reminder');
     },
 };
