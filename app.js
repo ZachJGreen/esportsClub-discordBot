@@ -1,4 +1,5 @@
 // Require the necessary discord.js classes
+const Sequelize = require('sequelize');
 const { Client, Collection, Events, GatewayIntentBits } = require('discord.js');
 const { token } = require('./config.json');
 
